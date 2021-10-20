@@ -8,3 +8,8 @@
 rushikesh-patil/rushikesh-patil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+### Latest posts
+<!-- POST:START -->
+- [Spring Boot - Creating a Custom Annotation for Validation](https://blog.clairvoyantsoft.com/spring-boot-creating-a-custom-annotation-for-validation-edafbf9a97a4)
+<!-- POST:END -->
