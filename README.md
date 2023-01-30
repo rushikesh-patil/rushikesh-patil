@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Latest posts
+#### Medium
 <!-- POST:START -->
 - [Spring Boot - Creating a Custom Annotation for Validation](https://blog.clairvoyantsoft.com/spring-boot-creating-a-custom-annotation-for-validation-edafbf9a97a4)
 <!-- POST:END -->
