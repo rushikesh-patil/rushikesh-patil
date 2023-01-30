@@ -13,3 +13,7 @@ You can click the Preview link to take a look at your changes.
 <!-- POST:START -->
 - [Spring Boot - Creating a Custom Annotation for Validation](https://blog.clairvoyantsoft.com/spring-boot-creating-a-custom-annotation-for-validation-edafbf9a97a4)
 <!-- POST:END -->
+
+<!-- POST:START -->
+- [Spring Boot — Custom Maven Dependencies for Common Implementations](https://blog.clairvoyantsoft.com/spring-boot-custom-maven-dependencies-for-common-implementations-f6ecf964d39a) 
+<!-- POST:END -->
